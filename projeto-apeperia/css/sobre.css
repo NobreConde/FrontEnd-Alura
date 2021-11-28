@@ -45,6 +45,9 @@
     .sobre__conteudo {
         margin-right: 3rem;
     }
+    .sobre__titulo {
+        text-align: left;
+    }
     .sobre__texto--divisao {
         border-bottom: 1px solid var(--cinza-medio);
         padding-bottom: 1.5rem;
